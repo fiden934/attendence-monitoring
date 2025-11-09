@@ -1,0 +1,7 @@
+{
+  "name": "AI Attendance Monitor",
+  "description": "An automated attendance monitoring system for colleges using facial recognition simulation. Register students, monitor attendance in real-time, and generate AI-powered summaries.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
